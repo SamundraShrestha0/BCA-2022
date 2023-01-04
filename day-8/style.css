@@ -1,0 +1,26 @@
+.container {
+    background-color: aqua;
+    width: 90%;
+    border:1;
+    height:100px;
+    
+}
+.box1 {
+    background-color: red;
+    
+    height:200;
+    float:left;
+    top:15px;
+    left:10px;
+
+}
+.box2 {
+    background-color: yellow;
+    width:20%;
+    height: 200;
+    position: absolute;
+    top:15px;
+    left:20;
+
+
+}

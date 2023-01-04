@@ -1,0 +1,19 @@
+.head {
+    background: rgb(116, 241, 255);
+    width: 100%;
+    height: 50px;
+}
+.dashboard {
+    background: rgb(152, 221, 82);
+    width: 15%;
+    height: 600px;
+    float: left;
+
+}
+.practice {
+    background: rgba(39, 146, 160, 0.541);
+    width: 85%;
+    height:600px;
+    float: right;
+    
+}

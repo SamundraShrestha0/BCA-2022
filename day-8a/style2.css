@@ -1,0 +1,23 @@
+.container {
+    background-color: aqua;
+    width:100%;
+    height:600px;
+    border-color: antiquewhite;
+    justify-content: flex;
+    
+}
+.box1 {
+    background-color: red;
+    width:25%;
+    height:150px;
+}
+.box2 {
+    background-color: rgb(48, 240, 44);
+    width:25%;
+    height:150px;
+}
+.box3{
+    background-color: blue;
+    width: 25%;
+    height: 150px;
+}

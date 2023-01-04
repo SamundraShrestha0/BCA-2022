@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(75, 209, 213);
+    height:7%;
+    width:100%;
+    position:fixed;
+    left:20%;
+    z-index:1;
+    
+}
+.form{
+    background-color: blueviolet;
+}
+form input{
+    background-color: aqua;
+    border-radius:10px;
+    position:absolute;
+    top:5px;
+    left:2px;
+    height:30px;
+    width:350px;
+}
+nav button{
+    top:5px;
+    left:360px;
+    padding:16px;
+    height:30px;
+    width:auto;
+    position:absolute;
+    border-radius:4px;
+    
+}
+nav button img{
+    background-image: -webkit-image-set();
+    color:red;
+
+}
+nav form input{
+    border-image: 1;
+    right:0;
+
+}
+aside{
+    background-color: rgb(75, 75, 251);
+    width:20%;
+    height:100%;
+    position:fixed;
+    left:0;
+
+}
+main{
+    background-color: aqua;
+    width:80%;
+    height:80%;
+    position:absolute;
+    left:20.5%;
+    top:11%;
+}
+footer{
+    background-color: blue;
+    width:80%;
+    height:10%;
+    position:absolute;
+    bottom:0;
+    left:20%;
+    position:fixed;
+
+}

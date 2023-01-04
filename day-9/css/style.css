@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(23, 78, 42);
+    height:10%;
+    width:80%;
+    position:fixed;
+    left:20%;
+    z-index:1;
+
+}
+aside{
+    background-color: red;
+    width:20%;
+    height:100%;
+    position:fixed;
+    left:0;
+
+}
+main{
+    background-color: aqua;
+    width:80%;
+    height:80%;
+    position:absolute;
+    left:20.5%;
+    top:11%;
+}
+footer{
+    background-color: blue;
+    width:80%;
+    height:10%;
+    position:fixed;
+    bottom:0;
+    left:20%;
+
+}
